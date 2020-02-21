@@ -1,0 +1,3120 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-webkit">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <title>豆瓣</title>
+    
+    
+<meta content="提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。" name="description"/>
+
+    <link href="https://img3.doubanio.com/f/shire/db7c8ab218cded634c1180ff7b56d3ca44393bc2/css/frontpage/_init_.css" rel="stylesheet" type="text/css">
+    <script>_head_start = new Date();</script>
+    <script src="https://img3.doubanio.com/f/shire/ebac5abada5de811d65dac57b2e62a89c7ddf55a/js/core/_init_.js" data-cfg-corelib="https://img3.doubanio.com/f/shire/72ced6df41d4d158420cebdd254f9562942464e3/js/jquery.min.js"></script>
+    
+    <style type="text/css"></style>
+    <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/3d8575504aa200e1.css">
+    <script>
+        Do.global('https://img3.doubanio.com/f/shire/1efae2c2d48b407a9bed76b9dd5dd8de37a8dbe1/js/douban.js');
+        
+    </script>
+
+    <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+    
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <ul>
+    <li>
+    <a id="top-nav-doumail-link" href="https://www.douban.com/doumail/">豆邮</a>
+    </li>
+    <li class="nav-user-account">
+      <a target="_blank" href="https://www.douban.com/accounts/" class="bn-more">
+        <span>日月光华的帐号</span><span class="arrow"></span>
+      </a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://www.douban.com/mine/">个人主页</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a target="_blank" href="https://www.douban.com/mine/orders/">我的订单</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a target="_blank" href="https://www.douban.com/mine/wallet/">我的钱包</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a target="_blank" href="https://www.douban.com/accounts/">帐号管理</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://www.douban.com/accounts/logout?source=main&ck=To-U">退出</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  <div class="top-nav-reminder">
+    <a href="https://www.douban.com/notification/" class="lnk-remind">提醒</a>
+    <div id="top-nav-notimenu" class="more-items">
+      <div class="bd">
+        <p>加载中...</p>
+      </div>
+    </div>
+  </div>
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 5.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="on">
+      <a href="https://www.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;165023527&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;165023527&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;165023527&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;165023527&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;165023527&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;165023527&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;165023527&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;165023527&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;165023527&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;165023527&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;165023527&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    USER_ID: "165023527",
+    UPLOAD_AUTH_TOKEN: "165023527:23cddc2ec7f2493bb9bd911124231ea169b740c2",
+    SSE_TOKEN: "27d59d088493ac657c58b89bbc3327186265acb9",
+    SSE_TIMESTAMP: "1520871122",
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/321e246/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/321e246/sns/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-nav-sns" class="nav">
+  <div class="nav-wrap">
+    <div class="nav-primary">
+     
+      <div class="nav-logo">
+        <a href="https://www.douban.com">豆瓣社区</a>
+      </div>
+
+      <div class="nav-search">
+  <form action="https://www.douban.com/search" method="get">
+	<fieldset>
+      <legend>搜索：</legend>
+	  <label for="inp-query">搜索你感兴趣的内容和人...</label>
+	  <div class="inp">
+	    <input type="hidden" name="source" value="suggest">
+		<input id="inp-query" name="q" size="22" maxlength="60" autocomplete="off" value="">
+	  </div>
+	  <div class="inp-btn"><input type="submit" value="搜索"></div>
+	</fieldset>
+  </form>
+</div>
+
+      
+
+<div class="nav-items">
+  <ul>
+    <li><a href="https://www.douban.com">首页</a></li>
+	<li><a href="https://www.douban.com/mine/">我的豆瓣</a></li>
+      <li>
+        <a href="https://www.douban.com/explore">
+          浏览发现
+        </a>
+      </li>
+      <li>
+        <a href="https://www.douban.com/gallery">
+          话题广场
+          <img src="https://img3.doubanio.com/f/shire/e49eca1517424a941871a2667a8957fd6c72d632/pics/new_menu.gif" alt="new" style="position: absolute; top: -7px; right: -13px;" />
+        </a>
+      </li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+</div>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/321e246/sns/bundle.js" defer="defer"></script>
+
+
+
+
+
+
+    <div id="wrapper">
+        
+
+        
+<div id="content">
+    
+
+    <div class="grid-16-8 clearfix">
+        
+        
+        <div class="article">
+               
+    
+
+        
+
+
+
+
+<div class="statuses-setting">
+<div class="hd">
+    <a href="#" class="a_status_setting">首页设置</a>
+</div>
+<div class="bd" style="display:none;">
+  <i class="arrow"></i>
+  <div class="loading">正在加载中...</div>
+</div>
+<p class="setting-tips" style="display:none;">设置成功! 相关内容后继会出现在你的首页上
+</div>
+<script>
+EXPAND_SETTING_FORM = false;
+</script>
+
+        <div id="statuses">
+            
+
+
+
+
+
+<div id="db-isay" class="mod isay isay-disable has-commodity ">
+	<form name="mbform" method="post" action="https://www.douban.com/"><div style="display:none;"><input type="hidden" name="ck" value="To-U"/></div>
+    <ul class="isay-links">
+      <li class="isay-main active"><a data-action="main" href="javascript:void(0);">说句话</a></li>
+      <li class="isay-pic"><a data-action="pic" href="javascript:void(0);">发照片</a></li>
+      <li class="isay-share">
+        <a data-action="share" href="javascript:void(0);">推荐网页</a>
+      </li>
+        <li class="notes-link"><a href="https://www.douban.com/note/create" title="添加日记">写日记</a></li>
+    </ul>
+    <div class="item">
+      <p class="highlighter mention-highlighter"></p>
+      <p class="highlighter error-highlighter"></p>
+      <label id="isay-label" for="isay-cont">分享生活点滴...</label>
+      <textarea data-minheight="70" tabindex="1" id="isay-cont" name="comment" rows="1"></textarea>
+    </div>
+    <div id="isay-act-field" class="isay-act"></div>
+    <div class="btn">
+      <span id="isay-counter"></span>
+      <span class="bn-submit bn-flat js-verify-account" data-is-verified="True" data-verify-url="https://www.douban.com/accounts/phone/verify"><input id="isay-submit" tabindex="1" type="submit" value="发布"></span>
+      <a target="_blank" href="https://www.douban.com/service/bookmarklet" class="lnk-share-tools" onclick="moreurl(this, {from:'index_rec'})" >添加网页推荐工具</a>
+    </div>
+  </form>
+  <div class="btn-group">
+    <form charset="utf-8" id="isay-upload" data-action="pic" action="/j/upload" enctype="multipart/form-data" method="post"><div style="display:none;"><input type="hidden" name="ck" value="To-U"/></div>
+    <input id="isay-upload-inp" tabindex="2" autocomplete="off" data-action="pic" name="image" title="可传多张照片" type="file" multiple>
+    </form>
+    <a href="javascript:void(0);" tabindex="-1" data-action="pic" class="ico ico-pic" title="上传照片">照片</a>
+    <a href="javascript:void(0);" tabindex="2" data-action="topic" class="ico ico-topic" title="添加话题">话题</a>
+  </div>
+</div>
+<script>
+    UPLOAD_AUTH_TOKEN = '165023527:be924aeeca2049928497aa34eb7cd93428fd5431';
+    UPLOAD_URL = '/j/upload';
+    SWFUPLOAD_FILES = ['https://img3.doubanio.com/f/shire/9980cc8a72c270732194aaef2390a1f0a006f044/js/swfupload.js'];
+    UPLOAD_LIMIT = 9;
+    var isay_src = "https://img3.doubanio.com/f/sns/160e93317a25694cbbaa6452a1af16114831d615/js/sns/widgets/isay_a.js";
+    var tagsug_src = "https://img3.doubanio.com/f/shire/2f84846bba8a5352b5e9f10d3e724f8a869e1b24/js/lib/tagsug.js";
+</script>
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+<div class="stream-items">
+  
+
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126351055" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126351055"
+    data-uid="4210266"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1012"
+    data-object-id="9210751">
+<div class="mod" data-status-id="2126351055">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/litangshuohua/status/2126351055/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/litangshuohua/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126351055&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1012&#34;})"
+ title="李唐"><img src="https://img3.doubanio.com/icon/u4210266-36.jpg" alt="李唐"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/litangshuohua/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126351055&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1012&#34;})"
+ class="lnk-people">李唐</a>
+    的评论:
+
+
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+
+  <div class="content">
+    <div class="title">
+      <a href="https://book.douban.com/review/9210751/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126351055&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1012&#34;})"
+>原本想着三十岁以前是不会写长篇的</a>
+    </div>
+    <p>原本想着三十岁以前是不会写长篇的，结果莫名其妙地写了下去，成了如今这本书的样子。还记得一个寒冬将至的早晨，也不知怎么回事，盯着窗外的树枝看了好久，忽然我就萌生了写长篇的念头。“天鹅绒小镇”的故事像...</p>
+  </div>
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 22:18:04">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+    <script class="verify_user_avatar" id="4210266" type="text/template">
+      
+
+  <style>
+    .verify-avatar{background-repeat:no-repeat;background-position:right bottom, 0 center;background-size:21px,48px;width:52px;height:56px}.usr-pic .verify-avatar{margin-top:-4px}.simple .verify-avatar{background-size:12px,24px;width:26px;height:28px}
+
+  </style>
+    <a href="https://www.douban.com/people/litangshuohua/" target="_blank" title="李唐">
+      <div class="verify-avatar" title="李唐"
+        style="background-image: url(https://img3.doubanio.com/f/shire/8cff6c7f0bfa5a9dbe604b51f4de62f655c233ce/pics/ic_verify@2x.png), url(https://img3.doubanio.com/icon/u4210266-36.jpg)">
+      </div>
+    </a>
+
+    </script>
+</div>
+<!-- 2126351055, review.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126242427" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126242427"
+    data-uid="157526587"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660207041">
+<div class="mod" data-status-id="2126242427">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/douban-time/status/2126242427/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/douban-time/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126242427&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="豆瓣时间"><img src="https://img3.doubanio.com/icon/u157526587-4.jpg" alt="豆瓣时间"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/douban-time/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126242427&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">豆瓣时间</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660207041/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126242427&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48993696.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660207041/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126242427&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>你明明这么迷人，你竟不自知</a>
+    </div>
+    <p>先花1分钟来看8道心理测试题： 1.如果待遇优厚，我愿意做护理精神病人的工作： A.是的 B.介于（A）、（C）之间 C.不是的 2.假使我手里拿着一把装着子弹的手枪，我必须把子弹拿出来才能安心：...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 17:58:06">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126242427, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126202855" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126202855"
+    data-uid="65510256"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="659373707">
+<div class="mod" data-status-id="2126202855">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/doubanread/status/2126202855/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/doubanread/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126202855&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="豆瓣阅读"><img src="https://img1.doubanio.com/icon/u65510256-7.jpg" alt="豆瓣阅读"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/doubanread/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126202855&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">豆瓣阅读</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/659373707/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126202855&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img1.doubanio.com/view/note/large/public/p48863179.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/659373707/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126202855&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>这片坟山，或许是江南墓葬最后的留存 |「过年」短篇</a>
+    </div>
+    <p>作者 袁俊伟 圩区村庄给人最深的印象，就是圩埂边堆陈着鳞次栉比的坟山，密度之大，范围之广，甚至不亚于村庄的屋舍，但凡有屋舍的人家，肯定有多于他们屋舍数量的坟山，这些坟山密密地排在...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 16:22:02">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126202855, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126163732" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126163732"
+    data-uid="163296676"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660081032">
+<div class="mod" data-status-id="2126163732">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/163296676/status/2126163732/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/163296676/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126163732&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="界面文化"><img src="https://img3.doubanio.com/icon/u163296676-2.jpg" alt="界面文化"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/163296676/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126163732&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">界面文化</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660081032/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126163732&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48973413.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660081032/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126163732&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>群嘲奥斯卡“政治正确”：是什么限制了我们对一种更有尊严的生活的想象？</a>
+    </div>
+    <p>它是“政治”的，也是“正确”的，但不是“政治正确”。 作者：张之琪 谈政治，谈正确，但不谈“政治正确” 今年3月5日，奥斯卡迎来了自己的90岁生日，同时，这也是#Metoo 运动后的第一届奥...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 14:56:01">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126163732, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126108925" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126108925"
+    data-uid="164799715"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="659924151">
+<div class="mod" data-status-id="2126108925">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/164799715/status/2126108925/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/164799715/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126108925&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="看客inSight"><img src="https://img3.doubanio.com/icon/u164799715-3.jpg" alt="看客inSight"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/164799715/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126108925&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">看客inSight</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/659924151/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126108925&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48948381.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/659924151/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126108925&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>我从监狱偷运精子</a>
+    </div>
+    <p>我怀里抱着那管精子，就像抱着自己的儿子。 Razan不孕不育诊所昏暗的B超室内，Suhad Abu Fiad撩起她笨重的黑色长袍，平躺在检查床上。当屏幕显现出腹中婴儿的轮廓，以及那纤细的小手，Suhad...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 12:41:59">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126108925, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125216925" data-uid="None" >
+
+
+    
+    
+
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125216925"
+    data-uid="157526587"
+    data-action="0"
+    data-target-type="ad"
+    data-object-kind="4504"
+    data-object-id="193923">
+<div class="mod" data-status-id="2125216925">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/157526587/status/2125216925">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/douban-time/" title="豆瓣时间"><img src="https://img3.doubanio.com/icon/u157526587-4.jpg" alt="豆瓣时间"/></a>
+  </div>
+  
+    
+    
+    <div class="erebor-ad" data-ad="{&#34;user_id&#34;: &#34;165023527&#34;, &#34;sid&#34;: &#34;2125216925&#34;}">
+        <span class="js-unfold-erebor-ad">广告</span>
+        <ul>
+            <li class="js-dismiss-erebor-ad">不感兴趣</li>
+        </ul>
+    </div>
+    
+
+  <div class="text">
+    <a href="https://www.douban.com/people/douban-time/" class="lnk-people">豆瓣时间</a>
+
+
+  </div>
+
+  </div>
+
+  <div class="bd ad">
+    
+<div class="status-saying erebor-block">
+
+  
+
+<blockquote>
+  
+
+  <p>乐观决定幸福人生，希望决定有效人生，坚韧决定成功人生。北师大执教30余年的心理学教授来时间开课啦，帮助你运用人格的特质和功能来把握自己的命运，找到自己的“人格金三角”，活出你想要的样子。速戳听课👉  <a title="https://www.douban.com/doubanapp/dispatch?uri=/niffler/column/95&amp;dt_time_source=douban-timeline_ad" href="https://erebor.douban.com/redirect/?ad=193923&uid=165023527&bid=sokkuiawQw0&unit=dale_broadcast_sixth&crtr=&mark=&hn=daisy9a&sig=6830956a6110cae2f1b504a6ee6c5eb6526ed0edf79f7380d60a2659c260110c95fb1833e8446828bb0de5cbe74e8f631bbceb3c3711c94a2615c1493fee39ce&pid=debug_013693dda74303d2da987d007f8207b667df8a49&screen_width=0&screen_height=0&target=aHR0cHM6Ly93d3cuZG91YmFuLmNvbS9kb3ViYW5hcHAvZGlzcGF0Y2g/dXJpPS9uaWZmbGVyL2NvbHVtbi85NSZkdF90aW1lX3NvdXJjZT1kb3ViYW4tdGltZWxpbmVfYWQ=&dumpling=&apple=&mooncake=&icecream=&onion=" target="_blank">https://douc.cc/3yiotu</a></p>
+</blockquote>
+
+
+    <img class="mon-img" style="width:0px;height:0px;position:absolute;z-index:-999;">
+    <img class="imp-img" style="width:0px;height:0px;position:absolute;">
+    
+      <div class="attachments-saying group-pics">
+            <span class="group-pic">
+              <span class="pic-wrap">
+              <img src="https://img1.doubanio.com/view/status/median/public/1k7akE.jpg" data-isanimated="" data-median-src="">
+              
+  <a class="view-large" href="https://img1.doubanio.com/view/status/raw/public/1k7akE.jpg" target="_blank" title="查看原图">&#43;</a>
+
+              <i class="valign"></i>
+              </span>
+            </span>
+      </div>
+</div>
+
+
+
+<script type="text/javascript">
+Do(function () {
+   var mon_url = '';
+   var imp_url = 'https://erebor.douban.com/count/?ad=193923&amp;uid=165023527&amp;bid=sokkuiawQw0&amp;unit=dale_broadcast_sixth&amp;crtr=&amp;mark=&amp;hn=daisy9a&amp;ns=1520871122134342272&amp;type=impression&amp;pid=debug_013693dda74303d2da987d007f8207b667df8a49';
+
+   setTimeout(function() {
+       $(".mon-img").attr("src", mon_url);
+       $(".imp-img").attr("src", imp_url);
+    }, 2000);
+});
+</script>
+
+
+
+  
+<div class="actions">
+  
+  <span class="created_at" title="2018-03-12 00:00:00"><a href="https://www.douban.com/people/157526587/status/2125216925">昨天</a></span>
+
+  <a href="https://www.douban.com/people/157526587/status/2125216925" class="btn btn-action-reply new-reply" data-action-type="showComments" data-count="2">
+    2回应
+  </a>
+
+      &nbsp;&nbsp;<a href="https://www.douban.com/people/157526587/status/2125216925" class="btn btn-key-like  btn-like" data-action-type="like" >赞</a>
+
+      <span class="count like-count" data-count="30">(30)</span>
+
+
+    &nbsp;&nbsp;<a class="btn btn-key-reshare btn-reshare new-reshare" data-action-type="reshare" >转播</a>
+       <span class="count reshared-count" data-count="5">(5)</span>
+
+
+    
+</div>
+
+  <div class="others">
+    <div class="comments">
+      <div class="comments-items"></div>
+      
+        <form method="post" action="https://www.douban.com/people/157526587/status/2125216925" class="comment-form"><div style="display:none;"><input type="hidden" name="ck" value="To-U"/></div>
+            <input maxlength="280" type="text" name="text" class="comment-text" data-type="status-comment">
+            <span class="bn-flat js-verify-account" data-is-verified="True" data-verify-url="https://www.douban.com/accounts/phone/verify"><input type="submit" value="发表回应" data-type="status-comment"></span>
+            <a href="javascript:void(0);" class="add-more-comments">继续回应</a>
+        </form>
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2125216925, ad.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126091393" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126091393"
+    data-uid="165263224"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="659956689">
+<div class="mod" data-status-id="2126091393">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/foodthink/status/2126091393/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/foodthink/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126091393&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="食通社"><img src="https://img3.doubanio.com/icon/u165263224-4.jpg" alt="食通社"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/foodthink/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126091393&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">食通社</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/659956689/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126091393&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48951990.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/659956689/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126091393&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>北美流行的超市攻略：溜边逛，不要去中间！</a>
+    </div>
+    <p>做为现代人，我们在日常生活中似乎并不缺吃的。但想要吃得干净、健康，却没那么容易。购买食物是门综合性的学问，要有知识、懂品质、有常识、有生活实践……在超市越来越大，货品越来越丰盛...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 11:54:03">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126091393, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126077220" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126077220"
+    data-uid="3297820"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660000282">
+<div class="mod" data-status-id="2126077220">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/putengfei/status/2126077220/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/putengfei/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126077220&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="大燕威王~扑腾"><img src="https://img3.doubanio.com/icon/u3297820-11.jpg" alt="大燕威王~扑腾"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/putengfei/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126077220&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">大燕威王~扑腾</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660000282/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126077220&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img1.doubanio.com/view/note/large/public/p48957479.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660000282/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126077220&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>武则天过妇女节吗？</a>
+    </div>
+    <p>这不是一道高考题。姑娘们节日快乐！认真无畏地过好每一天~（文中配图为王可伟的油画，来源于网络。由于多次转载，原出处已不可考，作品名称也不是每张都有。在此说明，不一一标注了。） 根...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 11:20:04">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126077220, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126059713" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126059713"
+    data-uid="139444387"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660082579">
+<div class="mod" data-status-id="2126059713">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/139444387/status/2126059713/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/139444387/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126059713&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="深焦DeepFocus"><img src="https://img3.doubanio.com/icon/u139444387-5.jpg" alt="深焦DeepFocus"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/139444387/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126059713&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">深焦DeepFocus</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660082579/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126059713&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48973594.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660082579/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126059713&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>格蕾塔·葛韦格：一个文艺女青年的励志故事</a>
+    </div>
+    <p>格蕾塔·葛韦格 Greta Gerwig 性别: 女 星座: 狮子座 出生日期: 1983/08/04 出生地: 美国,加利福尼亚州,萨克拉门托 职业: 演员 / 编剧 / 配音 / 导演 / 制片 文 | 2miao 编 | 尼侬叁 格蕾塔...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 10:40:09">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126059713, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126047790" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126047790"
+    data-uid="104562976"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660063411">
+<div class="mod" data-status-id="2126047790">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/104562976/status/2126047790/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/104562976/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126047790&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="KnowYourself"><img src="https://img3.doubanio.com/icon/u104562976-20.jpg" alt="KnowYourself"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/104562976/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126047790&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">KnowYourself</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660063411/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126047790&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48970612.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660063411/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126047790&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>“我很不开心，但张开嘴却只说出没关系”| 妇女节专题：因为害怕伤害关系，我们如何放弃了自己的声音</a>
+    </div>
+    <p>我认为只要我不伤害任何人，一切都会相安无事。但我很快就理解到，事情并不那么简单，你注定要伤害别人，别人也注定要伤害你。 如果你是一个女生，你有没有过这样的时刻： · 在明明想说不要...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 10:10:08">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126047790, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126039415" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126039415"
+    data-uid="93592263"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660082602">
+<div class="mod" data-status-id="2126039415">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/Sharon1216/status/2126039415/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/Sharon1216/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126039415&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="沙仑"><img src="https://img3.doubanio.com/icon/u93592263-4.jpg" alt="沙仑"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/Sharon1216/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126039415&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">沙仑</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660082602/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126039415&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>婚礼那天与父亲告别</a>
+    </div>
+    <p>文/沙仑 婚礼那天，在牧师的指引下，我和大羊依次跟我们的父母拥抱。我见父亲在一米开外的地方紧张地搓了搓手，朝我们走来。我与父亲的拥抱只持续了几秒钟，却让我有别样的感觉。我想，这个...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 09:48:00">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126039415, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2126017833" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2126017833"
+    data-uid="59260017"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660055713">
+<div class="mod" data-status-id="2126017833">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/59260017/status/2126017833/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/59260017/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126017833&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="瑾瑜是神的孩子"><img src="https://img3.doubanio.com/icon/u59260017-11.jpg" alt="瑾瑜是神的孩子"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/59260017/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2126017833&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">瑾瑜是神的孩子</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660055713/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2126017833&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>我所受到的性教育</a>
+    </div>
+    <p>我的经历可能和大多数同龄人不太一样。 我是大概小学四五年级时知道了有男女之事。仅仅是“知道”，来源是文学作品，成熟的文学作品，现代文学史上的必读书目。六年级时，与一个留过一级的混...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-12 08:48:08">
+            昨天<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2126017833, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125875403" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125875403"
+    data-uid="4869982"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660074143">
+<div class="mod" data-status-id="2125875403">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/xiutong/status/2125875403/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/xiutong/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125875403&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="朽瞳"><img src="https://img1.doubanio.com/icon/u4869982-278.jpg" alt="朽瞳"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/xiutong/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125875403&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">朽瞳</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660074143/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125875403&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48969474.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660074143/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125875403&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>另一种榜单——BtoZmovie 2017年最受欢迎恐怖片票选结果</a>
+    </div>
+    <p>BtoZmovie 的票选结果出炉啦！ 今年的票选继续在微博/微信/豆瓣同时进行，一共有 700 多位关注 BtoZ 的朋友参加选出了 2017 年度最受欢迎的恐怖片！废话不多说，下面就是这次票选前十名的选...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-11 22:48:05">
+            3月11日<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2125875403, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125798679" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125798679"
+    data-uid="2801342"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1026"
+    data-object-id="1658884017">
+<div class="mod" data-status-id="2125798679">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/melomeloGao/status/2125798679/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/melomeloGao/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125798679&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1026&#34;})"
+ title="melo"><img src="https://img3.doubanio.com/icon/u2801342-162.jpg" alt="melo"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/melomeloGao/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125798679&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1026&#34;})"
+ title="melo" class="lnk-people">melo</a>
+    的相册:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+
+
+
+
+<div class="block block-album">
+  <div class="content">
+      
+<div class="album-photos">
+  <a href="https://www.douban.com/photos/album/1658884017/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125798679&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1026&#34;})"
+>
+      <img src="https://img1.doubanio.com/view/photo/albumcover/public/p2515378077.jpg">
+      <img src="https://img1.doubanio.com/view/photo/albumcover/public/p2515270717.jpg">
+      <img src="https://img3.doubanio.com/view/photo/albumcover/public/p2515850873.jpg">
+      <img src="https://img3.doubanio.com/view/photo/albumcover/public/p2515993540.jpg">
+  </a>
+</div>
+<div class="title">
+  <a href="https://www.douban.com/photos/album/1658884017/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125798679&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1026&#34;})"
+>往拉美岁月去。(to be continued)</a>
+</div>
+
+  </div>
+</div>
+
+
+
+<div class="attachment">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <a class="fav-add btn-fav" title="标为喜欢？"
+      href="#"
+      data-user_id="165023527"
+      data-name=""
+      data-type=""
+      data-desc=""
+      data-href=""
+      data-image=""
+      data-properties="{}"
+      data-text=""
+      data-apikey="None"
+      data-object_kind="1026"
+      data-object_id="1658884017"
+      data-target_type="fav"
+      data-target_action="0"
+      data-action_props="{}"
+      data-tid="1658884017"
+      data-sanity_key="_c4d8e"
+      data-update_num=""
+      data-tag_align="left"
+      data-privacy="0"
+      data-tkind="1026">喜欢</a>
+      <script type="text/template" id="fav-tag-template">
+        
+<form action="" method="POST"><div style="display:none;"><input type="hidden" name="ck" value="To-U"/></div>
+  <div class="tag-editor-bd">
+      
+
+<div class="tags-editor">
+    <fieldset class="tags-writer">
+        <label for="author_tags_clone7815">添加标签，多个标签用空格分隔，帮助你更好地整理内容</label>
+        <input id="author_tags" name="author_tags" type="hidden" value="" />
+        <input tabindex="3" id="author_tags_clone7815" class="author_tags_clone" name="author_tags_clone" type="text" value="" />
+    </fieldset>
+</div>
+<div class="tags-control">
+    <span class="tags-tip error-msg"></span>
+    <a href="#" class="tags_more">展开全部<i class="triangle triangle-right"></i></a>
+    <dl class="tags-folder">
+    <dt>常用标签：</dt>
+        <dd>
+            <span>旅行</span>
+            <span>摄影</span>
+            <span>墨西哥</span>
+            <span>人文</span>
+            <span>古巴</span>
+        </dd>
+    </dl>
+</div>
+
+  </div>
+  <div class="tag-editor-ft">
+    <span class="bn-flat"><input type="submit" value="保存"></span>
+  </div>
+</form>
+
+      </script>
+
+
+
+
+
+
+
+
+
+
+
+<div class="author-tags-container">
+  <span class="splitter"></span>
+  <span class="tags">标签:
+      <a href="https://www.douban.com/tag/旅行/" target="_blank">旅行</a>
+      <a href="https://www.douban.com/tag/摄影/" target="_blank">摄影</a>
+      <a href="https://www.douban.com/tag/墨西哥/" target="_blank">墨西哥</a>
+      <a href="https://www.douban.com/tag/古巴/" target="_blank">古巴</a>
+      <a href="https://www.douban.com/tag/人文/" target="_blank">人文</a>
+  </span>
+</div>
+
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-11 20:50:08">
+            3月11日<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2125798679, photo_album.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125785928" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125785928"
+    data-uid="42097517"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660047967">
+<div class="mod" data-status-id="2125785928">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/babulliu/status/2125785928/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/babulliu/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125785928&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="把噗"><img src="https://img3.doubanio.com/icon/u42097517-13.jpg" alt="把噗"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/babulliu/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125785928&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">把噗</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660047967/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125785928&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48967780.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660047967/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125785928&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>电影中的空间（1）：建筑与空间</a>
+    </div>
+    <p>1. 空间，从广义上讲，乃是与时间相对的一种物质客观存在，是一种物与物之间的位置差异。只要世界存在，便会有空间。是否如《启示录》所言，上帝在创世之初一同创造了时间，还是说时间是随着...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-11 20:28:08">
+            3月11日<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+    <script class="verify_user_avatar" id="42097517" type="text/template">
+      
+
+  <style>
+    .verify-avatar{background-repeat:no-repeat;background-position:right bottom, 0 center;background-size:21px,48px;width:52px;height:56px}.usr-pic .verify-avatar{margin-top:-4px}.simple .verify-avatar{background-size:12px,24px;width:26px;height:28px}
+
+  </style>
+    <a href="https://www.douban.com/people/babulliu/" target="_blank" title="把噗">
+      <div class="verify-avatar" title="把噗"
+        style="background-image: url(https://img3.doubanio.com/f/shire/8cff6c7f0bfa5a9dbe604b51f4de62f655c233ce/pics/ic_verify@2x.png), url(https://img3.doubanio.com/icon/u42097517-13.jpg)">
+      </div>
+    </a>
+
+    </script>
+</div>
+<!-- 2125785928, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125664198" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125664198"
+    data-uid="143009922"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660057317">
+<div class="mod" data-status-id="2125664198">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/jianxiaodan/status/2125664198/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/jianxiaodan/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125664198&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="简单心理"><img src="https://img3.doubanio.com/icon/u143009922-5.jpg" alt="简单心理"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/jianxiaodan/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125664198&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">简单心理</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660057317/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125664198&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img1.doubanio.com/view/note/large/public/p48965898.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660057317/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125664198&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>如果一定要受伤，就让她们像普通女人那样受伤</a>
+    </div>
+    <p>一个老生常谈：把社会性别常规硬生生地套在每个人身上是愚蠢的行为。 我们已经谈过很多这样的问题了：男生不一定就非得骁勇善战，女生不一定就非得温柔可人，所谓“社会性别常规”是一个早就...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-11 16:16:08">
+            3月11日<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2125664198, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125646604" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125646604"
+    data-uid="1192067"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="656798157">
+<div class="mod" data-status-id="2125646604">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/sylvialove7/status/2125646604/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/sylvialove7/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125646604&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="惜知猫"><img src="https://img1.doubanio.com/icon/u1192067-17.jpg" alt="惜知猫"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/sylvialove7/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125646604&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">惜知猫</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/656798157/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125646604&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>从《恋爱先生》到《妖猫传》和《虎啸龙吟》：把人当个人，有多难</a>
+    </div>
+    <p>可能是因为靳东的《恋爱先生》吧，PUA又开始火了起来。 不解释PUA是什么，各类百科总有一款适合你。总之大概是十年前就听说了有这么个违背心理学伦理的领域，去教导男生如何骗取恋爱关系，女...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-11 15:40:00">
+            3月11日<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2125646604, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125552819" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125552819"
+    data-uid="157402727"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660027345">
+<div class="mod" data-status-id="2125552819">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/tootopia/status/2125552819/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/tootopia/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125552819&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="土逗公社"><img src="https://img3.doubanio.com/icon/u157402727-4.jpg" alt="土逗公社"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/tootopia/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125552819&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">土逗公社</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660027345/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125552819&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48963855.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660027345/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125552819&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>妇女节过成玛丽苏，女权先辈的棺材怕是压不住了</a>
+    </div>
+    <p>原来女性的人生与理想，可以如宇宙那样广阔。 导语：如今的三八妇女节，人们关心的不是放假，就是购物。作为新时代的女性，如果你仍然在生活中常被拉回大清，那么三八妇女节的缔造者可以回答...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-11 12:24:08">
+            3月11日<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2125552819, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125539043" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125539043"
+    data-uid="162576392"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="660004766">
+<div class="mod" data-status-id="2125539043">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/Gamecores/status/2125539043/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/Gamecores/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125539043&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="机核网"><img src="https://img3.doubanio.com/icon/u162576392-2.jpg" alt="机核网"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/Gamecores/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125539043&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">机核网</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/660004766/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125539043&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img1.doubanio.com/view/note/large/public/p48958809.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/660004766/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125539043&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>从童趣到恐惧 | 说说香港赌片里的“气功”意象</a>
+    </div>
+    <p>本文首发于机核网，作者三登 港片没有什么政治正确，没有道德教化的负担，它的表达是脱口而出的直率，对商业上的功利性毫无掩饰，从来就是以最大的热情去迎合大众，在艺术上和大众达成最大的...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-11 11:52:04">
+            3月11日<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2125539043, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125436595" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125436595"
+    data-uid="161147127"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="659987792">
+<div class="mod" data-status-id="2125436595">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/ibookreview/status/2125436595/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/ibookreview/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125436595&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="新京报书评周刊"><img src="https://img3.doubanio.com/icon/u161147127-2.jpg" alt="新京报书评周刊"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/ibookreview/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125436595&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">新京报书评周刊</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/659987792/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125436595&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img3.doubanio.com/view/note/large/public/p48955324.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/659987792/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125436595&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>那些甘愿将自己物化的女人，哪里想不开？</a>
+    </div>
+    <p>3月8日，又是一年一度的妇女节。自然，还是要不能免俗地祝各位女性读者们节日愉快！这个妇女节，我们想跟大家聊聊爱情，以及它是否真的对女性有着至高无上的重要性？ 大家可能还记得前不久因...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-11 04:26:01">
+            3月11日<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2125436595, note.html, -->
+
+
+
+
+      
+  
+      
+      
+
+
+
+
+
+
+    
+  
+    <div class="new-status status-wrapper    " data-sid="2125367157" data-uid="900117594" >
+
+
+    
+    
+
+
+
+
+
+
+<div class="status-item"
+    data-sid="2125367157"
+    data-uid="1399511"
+    data-action="0"
+    data-target-type="editor"
+    data-object-kind="1015"
+    data-object-id="659953553">
+<div class="mod" data-status-id="2125367157">
+  
+  <div
+    class="hd "
+    data-status-url="https://www.douban.com/people/captainou/status/2125367157/">
+    
+
+  <div class="usr-pic">
+    <a href="https://www.douban.com/people/captainou/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125367157&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ title="游民王阿牛"><img src="https://img1.doubanio.com/icon/u1399511-7.jpg" alt="游民王阿牛"/></a>
+  </div>
+  <div class="text">
+    <a href="https://www.douban.com/people/captainou/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmbp-2125367157&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ class="lnk-people">游民王阿牛</a>
+    的日记:
+    
+
+</blockquote>
+
+  </div>
+
+  </div>
+
+  <div class="bd editor">
+    
+
+<div class="block note-block">
+  <div class="pic">
+    <div class="pic-wrap">
+        <a href="https://www.douban.com/note/659953553/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125367157&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+ target="_blank"><img src="https://img1.doubanio.com/view/note/large/public/p48951889.jpg"></a>
+        <span class="valign"></span>
+    </div>
+  </div>
+
+  <div class="content">
+    <div class="title">
+      <a href="https://www.douban.com/note/659953553/" 
+  
+  onclick="moreurl(this, {&#34;action&#34;: &#34;0&#34;, &#34;from&#34;: &#34;nmb-2125367157&#34;, &#34;target_type&#34;: &#34;editor&#34;, &#34;object_kind&#34;: &#34;1015&#34;})"
+>搭便车旅行的日常 | 巴塔哥尼亚的日与夜</a>
+    </div>
+    <p>搭便车指南的第一条，是不要着急。 1、 巴塔哥尼亚这名字的来源有很多种说法，其中一种，是葡萄牙语中“大脚”的发音，因为当地的土著居民穿着兽皮制成的大鞋子驱寒，初来的葡萄牙探险家，就...</p>
+  </div>
+</div>
+<div class="attachment">
+</div>
+
+
+    <div class="actions">
+        
+        <span class="created_at" title="2018-03-11 00:08:01">
+            3月11日<span class="ghost">，来自 <a href="https://www.douban.com/interest/1/1/">热门精选</a></span>
+        </span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
+<!-- 2125367157, note.html, -->
+
+
+
+
+      
+</div>
+
+<script>
+window.crt_uid = "xpython";
+</script>
+
+
+  
+    
+
+    
+        <div class="paginator">
+        <span class="prev">
+            &lt;前页
+        </span>
+        
+        
+
+                <span class="thispage" data-total-page="9223372036854775807">1</span>
+                
+            <a href="?p=2" >2</a>
+        
+                
+            <a href="?p=3" >3</a>
+        
+                
+            <a href="?p=4" >4</a>
+        
+                
+            <a href="?p=5" >5</a>
+        
+                
+            <a href="?p=6" >6</a>
+        
+                
+            <a href="?p=7" >7</a>
+        
+                
+            <a href="?p=8" >8</a>
+        
+                
+            <a href="?p=9" >9</a>
+        
+            <span class="break">...</span>
+        <span class="next">
+            <link rel="next" href="?p=2"/>
+            <a href="?p=2" >后页&gt;</a>
+        </span>
+
+        </div>
+
+
+        </div>
+
+        </div>
+        <div class="aside">
+                
+
+
+
+
+
+
+
+
+
+<div class="notify-mod">
+    
+    
+    <h2>
+        豆瓣正在发生
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+    </h2>
+
+    <ul>
+            <li>
+              <a target="_blank" href="https://market.douban.com/campaign/notebook?utm_campaign=douban_what_happening&amp;utm_source=douban&amp;utm_medium=pc_web" 
+    onclick="moreurl(this, {category:'sns', type:'side_entry'})"
+>豆瓣「遇见·你」系列笔记本热销中</a>
+            </li>
+            <li>
+              <a target="_blank" href="https://www.douban.com/doubanapp/dispatch?uri=/niffler/column/95&amp;dt_time_source=douban-ckblood" 
+    onclick="moreurl(this, {category:'sns', type:'side_entry'})"
+>成为更好的自己，许燕人格心理学28讲</a>
+            </li>
+    </ul>
+</div>
+
+
+
+
+<div id="dale_homepage_login_top_right" class="mod"></div>
+
+
+
+
+
+
+
+<div class="mod" id="anony-time">
+    
+    <h2>
+        豆瓣时间
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                
+                    <a href="https://time.douban.com/?dt_time_source=douban-web_guangbo" target="_blank">查看全部</a>
+                ) </span>
+    </h2>
+
+
+    
+
+
+
+<ul class="time-list">
+        <li>
+            
+            <a class="cover listen  " href="https://m.douban.com/time/column/95?dt_time_source=douban-web_guangbo" target="_blank">
+                <img src="https://img1.doubanio.com/dae/niffler/niffler/images/b9dc3126-2134-11e8-95e3-0242ac11000a.jpg" alt="成为更好的自己——许燕人格心理学28讲">
+            </a>
+            <a class="title" href="https://m.douban.com/time/column/95?dt_time_source=douban-web_guangbo" target="_blank">成为更好的自己——许燕人格心理学28讲</a>
+            <span class="type">音频专栏</span>
+        </li>
+        <li>
+            
+            <a class="cover listen  " href="https://m.douban.com/time/column/91?dt_time_source=douban-web_guangbo" target="_blank">
+                <img src="https://img3.doubanio.com/dae/niffler/niffler/images/c4972ec0-e3bf-11e7-9d88-0242ac110021.jpg" alt="一个故事的诞生——22堂创意思维写作课">
+            </a>
+            <a class="title" href="https://m.douban.com/time/column/91?dt_time_source=douban-web_guangbo" target="_blank">一个故事的诞生——22堂创意思维写作课</a>
+            <span class="type">音频专栏</span>
+        </li>
+</ul>
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="mod">
+    
+    <h2>
+        热门话题
+            &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+            <span class="pl">&nbsp;(
+                
+                    <a href="/gallery/" target="_self">去话题广场</a>
+                ) </span>
+    </h2>
+
+
+    <ul>
+        
+            <li class="rec_topics">
+                    <a href="https://www.douban.com/gallery/topic/2925/?from=hot_topic_homepage" class="rec_topics_name">最难忘的面试经历</a>
+                    
+                    <span class="rec_topics_subtitle">85119人浏览</span>
+            </li>
+            <li class="rec_topics">
+                    <a href="https://www.douban.com/gallery/topic/651/?from=hot_topic_homepage" class="rec_topics_name">女性权益保护</a>
+                    
+                    <span class="rec_topics_subtitle">360525人浏览</span>
+            </li>
+            <li class="rec_topics">
+                    <a href="https://www.douban.com/gallery/topic/2701/?from=hot_topic_homepage" class="rec_topics_name">第90届奥斯卡</a>
+                    
+                    <span class="rec_topics_subtitle">527115人浏览</span>
+            </li>
+            <li class="rec_topics">
+                    <a href="https://www.douban.com/gallery/topic/2859/?from=hot_topic_homepage" class="rec_topics_name">方言中的有趣表达</a>
+                    
+                    <span class="rec_topics_subtitle">150449人浏览</span>
+            </li>
+            <li class="rec_topics">
+                    <a href="https://www.douban.com/gallery/topic/2839/?from=hot_topic_homepage" class="rec_topics_name">你是如何与父母沟通的</a>
+                    
+                    <span class="rec_topics_subtitle">162431人浏览</span>
+            </li>
+            <li class="rec_topics">
+                    <a href="https://www.douban.com/gallery/topic/78/?from=hot_topic_homepage" class="rec_topics_name">走亲访友异闻录</a>
+                    
+                    <span class="rec_topics_subtitle">196588人浏览</span>
+            </li>
+            <li class="rec_topics">
+                    <a href="https://www.douban.com/gallery/topic/2908/?from=hot_topic_homepage" class="rec_topics_name">失眠与晚睡强迫症</a>
+                    
+                    <span class="rec_topics_subtitle">新话题 · 3629人浏览</span>
+            </li>
+            <li class="rec_topics">
+                    <a href="https://www.douban.com/gallery/topic/2914/?from=hot_topic_homepage" class="rec_topics_name">《养家之人》延续了《海洋之歌》和《凯尔经的秘密》的哪些风格特点？</a>
+                    
+                    <span class="rec_topics_subtitle">新话题</span>
+            </li>
+            <li class="rec_topics">
+                <a href="/gallery/mine?type=invited">> 我被邀请参与的话题(0)</a>
+            </li>
+    </ul>
+</div>
+
+
+
+
+
+
+
+
+<div id="friend" class="mod">
+</div>
+
+
+
+
+
+
+
+
+
+<div id="fp-sites" class="mod">
+    <p><a href="https://site.douban.com/new_site/">&gt;&nbsp;申请创建小站</a></p>
+</div>
+
+
+<div class="mod">
+  <div id="dale_homepage_login_inner_middle"></div>
+  <div id="dale_homepage_login_download_middle"></div>
+</div>
+
+<div id="dale_homepage_login_bottom_middle_right" class="mod"></div>
+<div id="dale_homepage_login_bottom_right" class="mod"></div>
+
+        </div>
+        <div class="extra">
+            
+        </div>
+    </div>
+</div>
+
+        
+<div id="footer">
+    
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2018 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=main" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    
+    
+
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/415478a9fcb0b073.js"></script>
+    
+
+
+<!-- douban ad begin -->
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '165023527',
+            browserId = 'sokkuiawQw0',
+            criteria = '3:/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_homepage_login_top_right', 'dale_homepage_login_bottom_middle_right', 'dale_homepage_login_bottom_right', 'dale_homepage_login_inner_middle', 'dale_homepage_login_download_middle'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/adjs/19c2f912eb9e75d6f584144795161d656a399012/ad.release.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+<!-- douban ad end -->
+
+    
+    
+
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5WP579" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5WP579');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7019765-1']);
+_gaq.push(['_setCampNameKey', 'dcn']);
+_gaq.push(['_setCampSourceKey', 'dcs']);
+_gaq.push(['_setCampMediumKey', 'dcm']);
+_gaq.push(['_setCampTermKey', 'dct']);
+_gaq.push(['_setCampContentKey', 'dcc']);
+_gaq.push(['_addOrganic', 'baidu', 'word']);
+_gaq.push(['_addOrganic', 'soso', 'w']);
+_gaq.push(['_addOrganic', '3721', 'name']);
+_gaq.push(['_addOrganic', 'youdao', 'q']);
+_gaq.push(['_addOrganic', 'so.360.cn', 'q']);
+_gaq.push(['_addOrganic', 'vnet', 'kw']);
+_gaq.push(['_addOrganic', 'sogou', 'query']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣']);
+_gaq.push(['_addIgnoredOrganic', 'douban']);
+_gaq.push(['_addIgnoredOrganic', '豆瓣网']);
+_gaq.push(['_addIgnoredOrganic', 'www.douban.com']);
+_gaq.push(['_setDomainName', '.douban.com']);
+
+
+    _gaq.push(['_setCustomVar', 1, 'responsive_view_mode', 'desktop', 3]);
+
+_gaq.push(['_trackPageview']);
+_gaq.push(['_trackPageLoadTime']);
+    _gaq.push(['_setVar', '16502']);
+
+window._ga_init = function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+};
+if (window.addEventListener) {
+    window.addEventListener('load', _ga_init, false);
+} else {
+    window.attachEvent('onload', _ga_init);
+}
+</script>
+
+
+
+
+
+    <!-- sindar24b-docker-->
+
+  
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

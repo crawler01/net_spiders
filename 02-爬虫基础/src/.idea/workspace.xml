@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b94d2162-7cbc-415b-ab84-c4f2f4dddaac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/1. 爬虫课程介绍.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/10. 网页解析基础-xpath高级用法.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/11.  网页解析基础-beautifulsoup简介.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/12. 网页解析基础-正则表达式.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/13. 基础实例-爬取大前端.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/14. 保持登录状态.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/15.  常见反爬虫策略.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/16.  使用代理IP.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/17.  动态网页.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/18. selenium.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/19.  爬虫去重.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/2. 认识爬虫和Python爬虫的技术概况.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/20. Scrapy框架基础.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/21.  Scrapy常用命令行工具.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/23.  Scrapy的爬虫类和模板.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/24.  CrawlSpider.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/25.  Scrapy架构概览.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/26.  Scrapy应对反爬虫.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/27.  Scrapy登录与提交数据.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/28.  存储数据到数据库.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/29.  Scrapy分布式爬虫.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/3. 搭建开发环境.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/4. 认识HTTP请求.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/5. 爬虫基础-Requests入门.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/6. 爬虫基础-URLLIB库简介.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/7.  网页解析基础-认识HTML.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/8.  网页解析基础-xpath简介.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python实例教程PPT/9. 抓取百度首页小实例.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-PPT.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/4.1 qfang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/4.2 gfang_xq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/6.3 微信文章爬虫.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/7.2 链家经纪人.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/7.2_lianjia_jingjiren.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/7.3  36kr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/7.4 weibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/8.2 lagou.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/db.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/spiders/douban.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/spiders/baidu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/spiders/sina.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/spiders/sohu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aijia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aijia10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aijia11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aijia12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aj13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/spiders/woaiwojia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/spiders/lianjia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/dbs/default.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/dbs/pachong3.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/eggs/pachong3/1518100339.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/lj.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/ljj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/logs/pachong3/lianjia/119131b60cdd11e881b7b8cfda7714c7.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/spiders/douban.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/spiders/lianjia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/spiders/fang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/spiders/qfang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/q1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/r" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/lj23.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/spiders/lianjia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/spiders/zhihu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/selenium实战抓取新浪微博 - phontomjs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/日月光华python爬虫实战_课程3_爬取Q房网 .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/日月光华python爬虫实战_课程4_多线程及图片下载实战 .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/日月光华python爬虫实战_课程5_模拟登录豆瓣及验证码的处理 .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../00-教学其他资料/教材资料/Python爬虫实例教程-代码/日月光华python爬虫实战_课程6_使用代理下载微信文章 .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/05-requests模拟登陆.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20191227095829842.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20191227100722098.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20191227100857768.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20191227100952834.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20191227101025497.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20191227101057670.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20191227102513561.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20191227102518986.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20191227102720117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/document/image-20200108152721235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/src/douban_check_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../05-requests模拟登陆/src/douban_session_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06-认识和应对反爬虫/document/06-认识和应对反爬虫.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../21-教学计划/Python数据采集与清洗_教学计划.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04-基础爬虫实例/document/04-基础爬虫实例.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../04-基础爬虫实例/document/04-基础爬虫实例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/1. 爬虫课程介绍.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/10. 网页解析基础-xpath高级用法.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/11.  网页解析基础-beautifulsoup简介.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/12. 网页解析基础-正则表达式.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/13. 基础实例-爬取大前端.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/14. 保持登录状态.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/15.  常见反爬虫策略.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/16.  使用代理IP.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/17.  动态网页.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/18. selenium.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/19.  爬虫去重.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/2. 认识爬虫和Python爬虫的技术概况.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/20. Scrapy框架基础.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/21.  Scrapy常用命令行工具.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/23.  Scrapy的爬虫类和模板.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/24.  CrawlSpider.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/25.  Scrapy架构概览.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/26.  Scrapy应对反爬虫.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/27.  Scrapy登录与提交数据.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/28.  存储数据到数据库.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/29.  Scrapy分布式爬虫.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/3. 搭建开发环境.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/4. 认识HTTP请求.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/5. 爬虫基础-Requests入门.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/6. 爬虫基础-URLLIB库简介.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/7.  网页解析基础-认识HTML.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/8.  网页解析基础-xpath简介.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python实例教程PPT/9. 抓取百度首页小实例.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-PPT.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/4.1 qfang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/4.2 gfang_xq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/4.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/6.3 微信文章爬虫.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/7.2 链家经纪人.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/7.2_lianjia_jingjiren.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/7.3  36kr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/7.4 weibo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/8.2 lagou.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/db.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/pachong0/spiders/douban.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong0/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/spiders/baidu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/spiders/sina.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/pachong1/spiders/sohu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong1/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aijia.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aijia10.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aijia11.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aijia12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/aj13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/pachong2/spiders/woaiwojia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong2/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/build/lib/pachong3/spiders/lianjia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/dbs/default.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/dbs/pachong3.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/eggs/pachong3/1518100339.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/lj.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/ljj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/logs/pachong3/lianjia/119131b60cdd11e881b7b8cfda7714c7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/spiders/douban.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/pachong3/spiders/lianjia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/project.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong3/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/spiders/fang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/pachong4/spiders/qfang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/q1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/r" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong4/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/lj23.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/pachong5/spiders/lianjia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong5/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/pachong6/spiders/zhihu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/scrapy代码/pachong6/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/selenium实战抓取新浪微博 - phontomjs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/日月光华python爬虫实战_课程3_爬取Q房网 .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/日月光华python爬虫实战_课程4_多线程及图片下载实战 .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/日月光华python爬虫实战_课程5_模拟登录豆瓣及验证码的处理 .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../教学其他资料/教材资料/Python爬虫实例教程-代码/日月光华python爬虫实战_课程6_使用代理下载微信文章 .py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1UrPVc6gUB8UC4qBBzU30b7y8Wl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.urllib_post">
+    <configuration name="bytes_str" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bytes_str.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urlib_headers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urlib_headers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urllib_get" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\01备课资料\BD-1801\Python数据采集与清洗\02-爬虫基础\src\urllib_request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urllib_parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib_parse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urllib_post" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib_post.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.urllib_post" />
+        <item itemvalue="Python.urlib_headers" />
+        <item itemvalue="Python.urllib_parse" />
+        <item itemvalue="Python.bytes_str" />
+        <item itemvalue="Python.urllib_get" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b94d2162-7cbc-415b-ab84-c4f2f4dddaac" name="Default Changelist" comment="" />
+      <created>1576111765949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576111765949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

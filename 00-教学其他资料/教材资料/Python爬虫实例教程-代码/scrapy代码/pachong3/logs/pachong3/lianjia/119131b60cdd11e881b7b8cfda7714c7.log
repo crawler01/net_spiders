@@ -1,0 +1,97 @@
+2018-02-08 22:33:47 [scrapy.utils.log] INFO: Scrapy 1.5.0 started (bot: pachong3)
+2018-02-08 22:33:47 [scrapy.utils.log] INFO: Versions: lxml 4.1.0.0, libxml2 2.9.4, cssselect 1.0.3, parsel 1.3.1, w3lib 1.18.0, Twisted 17.9.0, Python 3.6.3 |Anaconda custom (64-bit)| (default, Oct 15 2017, 03:27:45) [MSC v.1900 64 bit (AMD64)], pyOpenSSL 17.2.0 (OpenSSL 1.0.2l  25 May 2017), cryptography 2.0.3, Platform Windows-10-10.0.16299-SP0
+2018-02-08 22:33:47 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'pachong3', 'DOWNLOAD_DELAY': 5, 'LOG_FILE': 'logs\\pachong3\\lianjia\\119131b60cdd11e881b7b8cfda7714c7.log', 'NEWSPIDER_MODULE': 'pachong3.spiders', 'SPIDER_MODULES': ['pachong3.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36'}
+2018-02-08 22:33:48 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.logstats.LogStats']
+2018-02-08 22:33:48 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2018-02-08 22:33:48 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2018-02-08 22:33:48 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2018-02-08 22:33:48 [scrapy.core.engine] INFO: Spider opened
+2018-02-08 22:33:48 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2018-02-08 22:33:48 [scrapy.extensions.telnet] DEBUG: Telnet console listening on 127.0.0.1:6023
+2018-02-08 22:33:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://bj.lianjia.com/ershoufang/> (referer: None)
+2018-02-08 22:33:56 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://bj.lianjia.com/ershoufang/> (referer: https://bj.lianjia.com/ershoufang/)
+2018-02-08 22:33:56 [scrapy.dupefilters] DEBUG: Filtered duplicate request: <GET https://bj.lianjia.com/ershoufang/> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2018-02-08 22:34:04 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://bj.lianjia.com/ershoufang/101102334666.html> (referer: https://bj.lianjia.com/ershoufang/)
+2018-02-08 22:34:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://bj.lianjia.com/ershoufang/chaoyangmennei1/> (referer: https://bj.lianjia.com/ershoufang/)
+2018-02-08 22:34:09 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://passport.lianjia.com/register/resources/lianjia/register.html?service=https%3A%2F%2Fwww.lianjia.com%2Fuser%2Fchecklogin%3Fredirect%3Dhttp%253A%252F%252Fbj.lianjia.com%252Fershoufang%252F101102334666.html> (referer: https://bj.lianjia.com/ershoufang/101102334666.html)
+2018-02-08 22:34:10 [traitlets] DEBUG: Using default logger
+2018-02-08 22:34:10 [traitlets] DEBUG: Using default logger
+2018-02-08 23:28:10 [scrapy.core.scraper] ERROR: Spider error processing <GET https://passport.lianjia.com/register/resources/lianjia/register.html?service=https%3A%2F%2Fwww.lianjia.com%2Fuser%2Fchecklogin%3Fredirect%3Dhttp%253A%252F%252Fbj.lianjia.com%252Fershoufang%252F101102334666.html> (referer: https://bj.lianjia.com/ershoufang/101102334666.html)
+Traceback (most recent call last):
+  File "c:\users\qiqi\anaconda3\lib\site-packages\IPython\terminal\interactiveshell.py", line 463, in interact
+    code = self.prompt_for_code()
+  File "c:\users\qiqi\anaconda3\lib\site-packages\IPython\terminal\interactiveshell.py", line 234, in prompt
+    line = cast_unicode_py2(input(prompt_text))
+  File "c:\users\qiqi\anaconda3\lib\site-packages\IPython\utils\py3compat.py", line 152, in input
+    return builtin_mod.input(prompt)
+EOFError: EOF when reading a line
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 30, in process_spider_output
+    for x in result:
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\spiders\crawl.py", line 76, in _parse_response
+    cb_res = callback(response, **cb_kwargs) or ()
+  File "D:\sp\pachong3\pachong3\spiders\lianjia.py", line 21, in parse_detail
+    inspect_response(response, self)
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\shell.py", line 167, in inspect_response
+    Shell(spider.crawler).start(response=response, spider=spider)
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\shell.py", line 81, in start
+    banner=self.vars.pop('banner', ''))
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\utils\console.py", line 92, in start_python_console
+    shell(namespace=namespace, banner=banner)
+  File "c:\users\qiqi\anaconda3\lib\site-packages\scrapy\utils\console.py", line 23, in wrapper
+    shell()
+  File "c:\users\qiqi\anaconda3\lib\site-packages\IPython\terminal\embed.py", line 225, in __call__
+    global_ns=global_ns, compile_flags=compile_flags)
+  File "c:\users\qiqi\anaconda3\lib\site-packages\IPython\terminal\embed.py", line 320, in mainloop
+    self.interact()
+  File "c:\users\qiqi\anaconda3\lib\site-packages\IPython\terminal\interactiveshell.py", line 466, in interact
+    or self.ask_yes_no('Do you really want to exit ([y]/n)?','y','n'):
+  File "c:\users\qiqi\anaconda3\lib\site-packages\IPython\core\interactiveshell.py", line 3060, in ask_yes_no
+    return ask_yes_no(prompt,default,interrupt)
+  File "c:\users\qiqi\anaconda3\lib\site-packages\IPython\utils\io.py", line 175, in ask_yes_no
+    ans = input(prompt+' ').lower()
+  File "c:\users\qiqi\anaconda3\lib\site-packages\IPython\utils\py3compat.py", line 152, in input
+    return builtin_mod.input(prompt)
+  File "c:\users\qiqi\anaconda3\lib\site-packages\colorama\ansitowin32.py", line 40, in write
+    self.__convertor.write(text)
+  File "c:\users\qiqi\anaconda3\lib\site-packages\colorama\ansitowin32.py", line 141, in write
+    self.write_and_convert(text)
+  File "c:\users\qiqi\anaconda3\lib\site-packages\colorama\ansitowin32.py", line 169, in write_and_convert
+    self.write_plain_text(text, cursor, len(text))
+  File "c:\users\qiqi\anaconda3\lib\site-packages\colorama\ansitowin32.py", line 175, in write_plain_text
+    self.wrapped.flush()
+OSError: [Errno 22] Invalid argument
+2018-02-08 23:28:11 [scrapy.extensions.logstats] INFO: Crawled 5 pages (at 5 pages/min), scraped 0 items (at 0 items/min)
+2018-02-08 23:28:11 [scrapy.downloadermiddlewares.retry] DEBUG: Retrying <GET https://upassport.lianjia.com/login?service=https%3A%2F%2Fwww.lianjia.com%2Fuser%2Fchecklogin%3Fredirect%3Dhttp%253A%252F%252Fbj.lianjia.com%252Fershoufang%252F101102334666.html> (failed 1 times): User timeout caused connection failure: Getting https://upassport.lianjia.com/login?service=https%3A%2F%2Fwww.lianjia.com%2Fuser%2Fchecklogin%3Fredirect%3Dhttp%253A%252F%252Fbj.lianjia.com%252Fershoufang%252F101102334666.html took longer than 180.0 seconds..
+2018-02-08 23:28:11 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://bj.lianjia.com/ershoufang/101102173084.html> (referer: https://bj.lianjia.com/ershoufang/)
